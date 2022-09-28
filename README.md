@@ -10,7 +10,7 @@ Foi preciso implementar as funcionalidades de **inserir**, **editar** e
 Foi implementado apenas as classes relacionadas a entidade Funcionario.
 
 Para testar aplicação acessar o serviço:
-http://localhost:8080/funcionarios/rest/funcionarios/teste
+http://localhost:8080/funcionarios/
 
 # Requisitos
 
